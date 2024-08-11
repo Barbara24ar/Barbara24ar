@@ -12,7 +12,7 @@
 ![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbara24ar&show_icons=true&theme=radical)
 
 ### 🏆 Achievements:
-- ![YOLO Badge](#) ![Blue Badge](#)
+ ![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) ![Blue Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 ### 🚀 Projects:
 Here are some of my notable projects:
