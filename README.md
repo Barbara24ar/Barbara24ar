@@ -28,5 +28,3 @@ Here are some of my notable projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/barbara-rolon-4rg/))
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](barbara.rolon.rivero@gmail.com)
 
-
-<h1>Hola este es mi perfil</h1>
