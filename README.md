@@ -9,7 +9,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/barbara-rolon-4rg/), [Email](barbara.rolon.rivero@gmail.com)
 
 ### 📈 GitHub Stats:
-![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbara24ar&show_icons=true&theme=radical)
+![Barbara24ar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbara24ar&show_icons=true&theme=radical&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Barbara24ar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Tech Stack:
 
